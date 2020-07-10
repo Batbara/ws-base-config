@@ -1,0 +1,7 @@
+yoke:
+  postgres:
+    host: postgres:5432
+  mongodb:
+    host: mongodb
+  eureka:
+    host: yoke-eureka

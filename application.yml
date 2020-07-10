@@ -1,3 +1,5 @@
 yoke:
   postgres:
     host: localhost:5432
+  mongodb:
+    host: localhost

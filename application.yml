@@ -1,0 +1,3 @@
+yoke:
+  postgres:
+    host: localhost:5432
